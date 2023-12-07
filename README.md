@@ -5,3 +5,4 @@ echo "# Projects-" >> README.md
   git branch -M main
   git remote add origin https://github.com/Shoaziz7/Projects-.git
   git push -u origin main
+  
